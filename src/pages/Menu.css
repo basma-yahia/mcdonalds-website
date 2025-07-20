@@ -1,0 +1,25 @@
+.card-hover {
+  transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+  background-color: #e4d0d3;
+}
+
+.card-hover .card-img-top {
+  transition: transform 0.3s ease;
+}
+/* 
+.card-hover:hover .card-img-top {
+  transform: scale(1.05);
+} */
+
+.card-hover:hover .card-title {
+  color: #d30000;
+}
+
+.card-hover:hover .text-danger {
+  color: #111 !important;
+}
