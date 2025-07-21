@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mcdonalds-website/static/css/main.45a86c00.css",
+    "main.js": "/mcdonalds-website/static/js/main.edc5e5a4.js",
+    "static/js/453.d149175b.chunk.js": "/mcdonalds-website/static/js/453.d149175b.chunk.js",
+    "index.html": "/mcdonalds-website/index.html",
+    "main.45a86c00.css.map": "/mcdonalds-website/static/css/main.45a86c00.css.map",
+    "main.edc5e5a4.js.map": "/mcdonalds-website/static/js/main.edc5e5a4.js.map",
+    "453.d149175b.chunk.js.map": "/mcdonalds-website/static/js/453.d149175b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45a86c00.css",
+    "static/js/main.edc5e5a4.js"
+  ]
+}
